@@ -1,0 +1,9 @@
+{
+  "version": "YouTube",
+  "routingItems": [
+    {
+      "remarks": "\u0059\u006F\u0075\u0054\u0075\u0062\u0065",
+      "url": "https://raw.githubusercontent.com/rustymax/v2rayN/refs/heads/main/youtube.json"
+    }
+  ]
+}
