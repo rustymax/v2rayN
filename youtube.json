@@ -1,0 +1,20 @@
+[
+  {
+    "port": "",
+    "outboundTag": "proxy",
+    "domain": [
+      "geosite:youtube"
+    ],
+    "enabled": true,
+    "remarks": "Youtube"
+  },
+  {
+    "port": "",
+    "outboundTag": "direct",
+    "domain": [
+      "regexp:\\.*$"
+    ],
+    "enabled": true,
+    "remarks": "All"
+  }
+]
